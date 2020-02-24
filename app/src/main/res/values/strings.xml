@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LayoutsLab04</string>
+    <string name="app_text">Hello World!</string>
+    <string name="bottomright">bottom right</string>
+    <string name="topright">top  right</string>
+    <string name="bottomleft">bottom left</string>
+    <string name="topleft">top left</string>
+    <string name="topmiddle">top middle</string>
+    <string name="leftmiddle">left middle</string>
+    <string name="rightmiddle">right middle</string>
+    <string name="bottommiddle">bottom middle</string>
+    <string name="middle">middle</string>
+    <string name="top">top</string>
+    <string name="bottom">bottom</string>
+    <string name="instructions"><![CDATA[Demo the following:  A ConstraintLayout with a View set in each corner A ConstraintLayout with a View centered in the top, and two View as shown in the middle A ConstraintLayout with a background color, and a Guidline that is used to align a TextView, Button and two Views as shown A ConstraintLayout with overlapping Views as shown. A ConstraintLayout with a ScrollView that contains a TextView. The TextView contains very long text (you must scroll to see all of it). A ConstraintLayout with a Guideline and a Horizontal ScrollView. This ScrollView contains many Buttons (you have to scroll to see them all). A ConstraintLayout with a Guideline, TextView and nested layout (i.e. <include layout=\"@layout/my_sub_layout\"> ) that contains a Button and ScrollView with many checkboxes (as shown). Demo the following:  A ConstraintLayout with a View set in each corner A ConstraintLayout with a View centered in the top, and two View as shown in the middle A ConstraintLayout with a background color, and a Guidline that is used to align a TextView, Button and two Views as shown A ConstraintLayout with overlapping Views as shown. A ConstraintLayout with a ScrollView that contains a TextView. The TextView contains very long text (you must scroll to see all of it). A ConstraintLayout with a Guideline and a Horizontal ScrollView. This ScrollView contains many Buttons (you have to scroll to see them all). A ConstraintLayout with a Guideline, TextView and nested layout (i.e. <include layout=\"@layout/my_sub_layout\"> ) that contains a Button and ScrollView with many checkboxes (as shown). nDemo the following:  A ConstraintLayout with a View set in each corner A ConstraintLayout with a View centered in the top, and two View as shown in the middle A ConstraintLayout with a background color, and a Guidline that is used to align a TextView, Button and two Views as shown A ConstraintLayout with overlapping Views as shown. A ConstraintLayout with a ScrollView that contains a TextView. The TextView contains very long text (you must scroll to see all of it). A ConstraintLayout with a Guideline and a Horizontal ScrollView. This ScrollView contains many Buttons (you have to scroll to see them all). A ConstraintLayout with a Guideline, TextView and nested layout (i.e. <include layout=\"@layout/my_sub_layout\"> ) that contains a Button and ScrollView with many checkboxes (as shown).]]></string>
+</resources>
